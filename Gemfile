@@ -1,5 +1,6 @@
 source "https://rubygems.org"
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 4.4.1"
+gem "jekyll-theme-so-simple", "~> 3.2.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
